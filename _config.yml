@@ -1,0 +1,13 @@
+title: Rob Sumner
+baseurl: "/blog"
+url: "https://robsumner.github.io/" 
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.markdown
+  - papers/papers.markdown
+
+github_username: RobSumner
